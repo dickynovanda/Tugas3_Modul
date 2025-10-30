@@ -27,9 +27,9 @@ Kode bersifat edukatif: dapat dijadikan contoh praktikum atau studi kasus OOP di
 # Instalasi & Persiapan
 
 Clone repository:
-
+```
 git clone https://github.com/dickynovanda/Tugas3_Modul.git
-
+```
 
 Buka di IDE pilihan Anda (misalnya: IntelliJ IDEA, Eclipse).
 
