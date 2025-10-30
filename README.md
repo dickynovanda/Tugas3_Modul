@@ -1,4 +1,4 @@
-**Deskripsi**
+# Deskripsi
 
 Proyek Tugas3_Modul ini mencakup tugas ketiga modul pada mata kuliah Pemrograman Berorientasi Objek menggunakan bahasa Java. Tujuannya adalah untuk menerapkan konsep OOP seperti:
 
@@ -12,7 +12,7 @@ polimorfisme
 
 penggunaan package dan struktur proyek yang baik
 
-**Fitur Utama**
+# Fitur Utama
 
 Kelas utama: Main.java — sebagai entry point aplikasi.
 
@@ -39,15 +39,19 @@ Build dan jalankan kelas Main.java.
 
 Telusuri modul–modul kelas yang ada (misalnya Sapi.java) untuk memahami implementasi OOP.
 
-**Struktur Folder**
+# Struktur Folder
+
 Tugas3_Modul/
 ├── .idea/                     # Konfigurasi IDE IntelliJ
+
 ├── out/production/Tugas3_Modul  # Output hasil build
+
 ├── src/                       # Kode sumber Java
 │   ├── Main.java
 │   └── Sapi.java
 
 ├── Tugas3_Modul.iml           # File proyek IntelliJ
+
 └── README.md                  # Dokumentasi (ini)
 
 **Cara Penggunaan**
